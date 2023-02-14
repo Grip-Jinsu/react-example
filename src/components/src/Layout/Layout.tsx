@@ -8,6 +8,7 @@ export const StyleLayoutContainer = styled.div`
 
 export const StyleLayoutMain = styled.main`
     min-height: calc(100vh - 180px);
+
 `
 
 const Layout = (props: {

@@ -14,6 +14,7 @@ const App: React.FC = () => {
 
                 <Route path="/" element={loginCheck || loginCheck === 'Y' ? (
                     <>
+                    
                     <Helmet>
                     <title>메인 페이지</title>
                     </Helmet>
